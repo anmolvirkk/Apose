@@ -1,0 +1,28 @@
+header {
+  width: 100%;
+  border-bottom: 1px solid #454545;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 4rem;
+  box-sizing: border-box;
+  color: #c7bfc2;
+  position: sticky;
+  top: 0;
+}
+header nav {
+  display: flex;
+  height: 100%;
+}
+header div {
+  border-right: 1px solid #454545;
+  height: 100%;
+  padding: 0 2rem 0 2rem;
+  display: flex;
+  align-items: center;
+}
+header .logo {
+  background-color: #454545;
+  color: #fafafa;
+  font-size: 2rem;
+}

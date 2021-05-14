@@ -1,0 +1,58 @@
+.footer {
+  border-top: 1px solid #454545;
+  width: 100%;
+  margin-top: 10vh;
+}
+.ribbon {
+  margin-top: 6vh;
+  padding-top: 12vh;
+  padding-bottom: 6vh;
+}
+.ribbon h2 {
+  font-size: 1rem;
+  font-weight: 300;
+  margin-bottom: 1.5rem;
+}
+.ribbon p {
+  font-size: 0.9rem;
+  color: #707070;
+}
+.bottom {
+  width: 100%;
+  width: calc(100% - 4rem) !important;
+  height: 8rem;
+  display: flex;
+  align-items: center;
+  border-top: 1px solid #454545;
+  background: #272727;
+  margin-left: 4rem;
+}
+.bottom ul {
+  display: flex;
+  list-style: none;
+}
+.bottom li {
+  margin-right: 4rem;
+}
+.marsLogo {
+  height: 3rem;
+  fill: #f0f0f0;
+  opacity: 0.3;
+}
+.newsletterInput {
+  width: 80%;
+  border: 0;
+  outline: 0;
+  border-bottom: 1px solid #454545;
+  padding-bottom: 2rem;
+  background: transparent;
+  color: #f0f0f0;
+  font-size: 1rem;
+}
+.socials {
+  border-left: 1px solid #454545;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
